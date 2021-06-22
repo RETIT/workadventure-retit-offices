@@ -28,6 +28,11 @@
                  "value":"SoftwarePerformanceMeetup"
                 }, 
                 {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Join the Software Performance Meetup"
