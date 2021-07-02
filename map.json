@@ -53,7 +53,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.retit.de"
+                 "value":"https:\/\/retit.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
