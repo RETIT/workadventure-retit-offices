@@ -1594,14 +1594,6 @@
                         }, 
                         {
                          "duration":200,
-                         "tileid":53
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":66
-                        }, 
-                        {
-                         "duration":200,
                          "tileid":66
                         }],
                  "id":66
